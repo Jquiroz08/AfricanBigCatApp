@@ -31,6 +31,8 @@ public class Menu {
         */
 
         printCommand('c',"[C]reates a big cat");
+        printCommand('d',"[D]elete a big cat");
+        printCommand('f',"[F]ind a big cat");
         printCommand('l',"[L]ists all big Cats");
         printCommand('q',"[Q]uits");
 
